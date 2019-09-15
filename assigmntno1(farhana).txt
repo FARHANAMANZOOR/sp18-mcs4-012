@@ -1,0 +1,44 @@
+<html>
+<head><title> CV</title></head>
+<body >
+<img src="
+
+ <h1 align=center> CURRUCULMA VITTAE </h1>
+<h1 align=center> FARHANA MANZOOR </h1>
+<h2> PERSONAL DETAILS</h2>
+<p><b> Name; /b>Farhana Manzoor</p>
+<p><b>  Father Name; /b> Manzoor</p>
+<p><b>  DOB; /b> 23/01/1997</p>
+
+<p><b>  CNIC; /b> 000000000</p>
+
+<p><b>  E-mail; /b> fari500@gmail.com</p>
+
+<p><b>  Nationalty; /b> pakistani</p>
+
+<p><b>  Phone no; /b> 03455985550</p>
+
+
+
+<h2> Profile</h2>
+<p> i am a fast minded ,hardworking girl.</p>                                     
+
+<h2> Education</h2>
+<p> matric passed in 2013,Fsc passed in 2015 and Bsc i 2017 </p>
+
+
+<h2> Skills</h2>
+<p> Office Managment MS Word,MS exel,internet  </p>
+<h2> Interest</h2>
+<p> Book Reading </p>
+
+
+</body>
+
+
+
+
+
+
+
+</html>
